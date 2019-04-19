@@ -1,0 +1,22 @@
+{
+  "name": "tanyamaslovapeach.github.io",
+  "version": "1.0.0",
+  "description": "Landing page",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanyamaslovapeach/Tanyamaslovapeach.github.io.git"
+  },
+  "author": "TMaslova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanyamaslovapeach/Tanyamaslovapeach.github.io/issues"
+  },
+  "homepage": "https://github.com/Tanyamaslovapeach/Tanyamaslovapeach.github.io#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
